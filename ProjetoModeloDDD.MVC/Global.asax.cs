@@ -3,6 +3,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 using AutoMapper;
+using ProjetoModeloDDD.Infra.CrossCulting.IoC;
 
 namespace ProjetoModeloDDD.MVC
 {
@@ -17,6 +18,7 @@ namespace ProjetoModeloDDD.MVC
 
             //Para geristrar o auto mapper
             AutoMapperConfig.RegisterMappings();
+            
         }
     }
 }

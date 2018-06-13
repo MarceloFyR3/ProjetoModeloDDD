@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Infra.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Application", "ProjetoModeloDDD.Application\ProjetoModeloDDD.Application.csproj", "{FBB64C4D-A329-43A2-995D-1BA8F94E7A03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModeloDDD.Infra.CrossCulting.IoC", "ProjetoModeloDDD.Infra.CrossCulting.IoC\ProjetoModeloDDD.Infra.CrossCulting.IoC.csproj", "{91B22CA7-17F7-4588-A6B5-95024CFAC47D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{FBB64C4D-A329-43A2-995D-1BA8F94E7A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB64C4D-A329-43A2-995D-1BA8F94E7A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB64C4D-A329-43A2-995D-1BA8F94E7A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B22CA7-17F7-4588-A6B5-95024CFAC47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B22CA7-17F7-4588-A6B5-95024CFAC47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B22CA7-17F7-4588-A6B5-95024CFAC47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B22CA7-17F7-4588-A6B5-95024CFAC47D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{7D50192F-006E-4322-B700-540CEF69D5C3} = {4B128266-214A-44A7-A399-8D096EA626CC}
 		{A7DEAAA4-5EC6-443E-AC45-9A5EA487C564} = {08672EEA-8CAC-45B3-9FBF-CA1834657C0E}
 		{FBB64C4D-A329-43A2-995D-1BA8F94E7A03} = {ED708290-BD86-4BC8-AEE4-9335883BFB90}
+		{91B22CA7-17F7-4588-A6B5-95024CFAC47D} = {6E7CE347-316F-4507-8F6E-6747D327C441}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {90D35ECB-783C-41EA-9204-60486F162E7B}

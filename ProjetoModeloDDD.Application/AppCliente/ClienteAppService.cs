@@ -1,5 +1,4 @@
-﻿
-using ProjetoModeloDDD.Application.Interface.IClienteApp;
+﻿using ProjetoModeloDDD.Application.Interface.IClienteApp;
 using ProjetoModeloDDD.Domain.Entities;
 using ProjetoModeloDDD.Domain.Interfaces.Services.ICliente;
 using System.Collections.Generic;
