@@ -4,3 +4,9 @@ C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Domain\ob
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+E:\ProjetosFyR3\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
