@@ -223,3 +223,4 @@ C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\P
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.dll.config
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebActivator.dll

@@ -18,3 +18,6 @@ C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Cro
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\obj\Debug\ProjetoModeloDDD.Infra.CrossCulting.IoC.csproj.CopyComplete
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\obj\Debug\ProjetoModeloDDD.Infra.CrossCulting.IoC.dll
 C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\obj\Debug\ProjetoModeloDDD.Infra.CrossCulting.IoC.pdb
+C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\marcelo.freitas\Desktop\MVC\ProjetoModeloDDD\ProjetoModeloDDD.Infra.CrossCulting.IoC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
