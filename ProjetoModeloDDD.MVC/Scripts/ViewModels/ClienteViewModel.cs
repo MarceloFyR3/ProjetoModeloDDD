@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Web;
+using ProjetoModeloDDD.MVC.Scripts.ViewModels;
 
 namespace ProjetoModeloDDD.MVC.ViewModels
 {

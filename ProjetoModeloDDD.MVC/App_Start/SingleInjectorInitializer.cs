@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Web;
+﻿using System.Reflection;
 using System.Web.Mvc;
 using ProjetoModeloDDD.Infra.CrossCulting.IoC;
-using ProjetoModeloDDD.MVC.App_Start;
+using ProjetoModeloDDD.MVC;
 using SimpleInjector;
 using SimpleInjector.Advanced;
 using SimpleInjector.Integration.Web;
@@ -13,7 +9,7 @@ using SimpleInjector.Integration.Web.Mvc;
 using WebActivator;
 
 [assembly: PostApplicationStartMethod(typeof(SingleInjectorInitializer), "Initialize")]
-namespace ProjetoModeloDDD.MVC.App_Start
+namespace ProjetoModeloDDD.MVC
 {
     /// <summary>
     /// Install-Package SimpleInjector
@@ -33,7 +29,6 @@ namespace ProjetoModeloDDD.MVC.App_Start
             container.RegisterMvcControllers(Assembly.GetExecutingAssembly());
             container.IsVerifying();
             DependencyResolver.SetResolver(new SimpleInjectorDependencyResolver(container));
-
         }
 
         private static void InitializeContainer(Container container)

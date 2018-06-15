@@ -2,6 +2,7 @@
 using ProjetoModeloDDD.Infra.Contexto;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data.Entity;
 using System.Linq;
 
@@ -42,7 +43,7 @@ namespace ProjetoModeloDDD.Infra.Repositories
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Db.Dispose();
         }
     }
 }

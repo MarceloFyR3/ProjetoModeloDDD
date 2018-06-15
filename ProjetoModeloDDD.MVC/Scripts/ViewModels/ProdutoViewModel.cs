@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Web;
+using ProjetoModeloDDD.MVC.ViewModels;
 
-namespace ProjetoModeloDDD.MVC.ViewModels
+namespace ProjetoModeloDDD.MVC.Scripts.ViewModels
 {
     public class ProdutoViewModel
     {
